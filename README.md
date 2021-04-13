@@ -1,10 +1,30 @@
 # P2AfamefunaUmejiaku
-**CS 5331-002 - Virtual Reality Project 1**<br/>
-**October 4, 2020<br/>
+**CS 5331 - Human Computer Interaction**<br/>
+**April 2021<br/>
 Umejiaku Promise Afamefuna<br/>
-Impact of Coronavirus on my Life Project Report <br/>**
-The outbreak of coronavirus has impacted me negatively in several areas of my life. One area it has seriously impacted me is in my academic life. To show this impact I have model a virtual reality environment predominantly using Aframe, Javascript and Blender to design and animate the environment.<br/>
- The areas of impact highlighted in this project was that of changes in the classroom and office environment. It showed that an office that normally sits 8 persons now sits 3 people and they are forced to use a different door for entry and exit and not the one that best suits them. The other area highlighted was that of the classroom environment where a class that normally sits 12 persons is now forced to sit 3 persons. Also, rather than having a lecturer teach course content, they begin by showing a video warning of the impact of Coronavirus. A  picture with a link to the video is shown below.<br/>
+The car dashboard (Peugeot) <br/>**
+
+A car's dashboard is a control panel usually position directly ahead of a driver displaying instrumentations and controls of vehicle operations. Here would be analyzing the dashboards of Peugeot brand of cars to answer the following questions -  
+
+1. Find 5 examples of car dashboards (can be from online).
+2. Put photos of the car dashboards on your report page.
+3. Find the pros vs. cons with the current designs and explain why it is good vs. bad.
+4. List your most common features and other more rare uses of a car dashboards.
+5 .List the controls that the user interacts with the car dashboards.
+What are some common mistakes you can make with this current designs?
+Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+Now, imagine that you can redesign the car dashboard. To get a A, you need to:
+Come up with your design for the dashboard?
+Design and implement interactive features
+Design and implement user feedback
+You can use Processing/Processing.js or other languages to impelement your car dashboard.
+
+
+
+
+
+
+A  picture with a link to the video is shown below.<br/>
 [ Click the image below to watch a short video demo.](https://www.youtube.com/watch?v=2r75rA8yok8&ab_channel=AfamefunapromiseUmejiaku) <br/>
 [ ![Overview](overview.png)](https://www.youtube.com/watch?v=2r75rA8yok8&ab_channel=AfamefunapromiseUmejiaku)<br/>
 
