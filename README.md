@@ -16,8 +16,7 @@ A car's dashboard is a control panel usually position directly ahead of a driver
 8. Design and implement interactive features
 9. Design and implement user feedback using Processing/Processing.js.
 
-
-**Solution**<br/>
+<br/>
 
 **Peugeot 504**<br/>
 Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
