@@ -9,7 +9,7 @@ A car's dashboard is a control panel usually position directly ahead of a driver
 1. Using Photos show 5 examples of car dashboards.
 2. State the pros vs. cons with the current designs and explain why it is good vs. bad.
 3. List your most common features and other more rare uses of a car dashboards.
-4 .List the controls that the user interacts with the car dashboards.
+4. List the controls that the user interacts with the car dashboards.
 5. What are some common mistakes you can make with this current designs?
 6. Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
 7. Come up with your design for the dashboard?
