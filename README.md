@@ -6,19 +6,18 @@ The car dashboard (Peugeot) <br/>**
 
 A car's dashboard is a control panel usually position directly ahead of a driver displaying instrumentations and controls of vehicle operations. Here would be analyzing the dashboards of Peugeot brand of cars to answer the following questions -  
 
-1. Find 5 examples of car dashboards (can be from online).
-2. Put photos of the car dashboards on your report page.
-3. Find the pros vs. cons with the current designs and explain why it is good vs. bad.
-4. List your most common features and other more rare uses of a car dashboards.
-5 .List the controls that the user interacts with the car dashboards.
-What are some common mistakes you can make with this current designs?
-Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
-Now, imagine that you can redesign the car dashboard. To get a A, you need to:
-Come up with your design for the dashboard?
-Design and implement interactive features
-Design and implement user feedback
-You can use Processing/Processing.js or other languages to impelement your car dashboard.
+1. Using Photos show 5 examples of car dashboards.
+2. State the pros vs. cons with the current designs and explain why it is good vs. bad.
+3. List your most common features and other more rare uses of a car dashboards.
+4 .List the controls that the user interacts with the car dashboards.
+5. What are some common mistakes you can make with this current designs?
+6. Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+7. Come up with your design for the dashboard?
+8. Design and implement interactive features
+9. Design and implement user feedback using Processing/Processing.js.
 
+
+**Solution to Question 1 and 2**<br/>
 
 
 
