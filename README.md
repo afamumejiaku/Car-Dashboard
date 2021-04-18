@@ -72,9 +72,18 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 ### Common mistakes you can make with the 505 design
 1.	Several icons are clustered cons are clustered at the top making it difficult to quickly identify an icon.
 2.	The fuel and temperature are position in a manner that with a quick glance for someone not familiar would confuse.
-3.	The numbers on the speedometer are small as the display is full.
+3.	The car speed might be diffculty to see with a quick glance
 4.	Seeing red icons could cause a driver to stop driving not knowing that its not really a critical indication.
 5.	The Fuel indicator and the Engine temperature are going in reverse directions likely to be confusing.
+
+### Proposed improvements to the dashboard.
+1.	Remove the cluttering of icons on the top by appropriately positioning the icons.
+2.	Ensure the color of icons have closely related meanings to make it easier to draw inference.
+3.	Make sure that similar icons are grouped together.
+4.	Ensure every meter goes in the same direction.
+5.	Provide additional meaning for any icon turned on.
+6.	Ensure the Speed is clearly displayed.
+
 
 ### Common Dashboard Features
 | Models | Description |
