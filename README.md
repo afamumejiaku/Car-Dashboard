@@ -133,7 +133,7 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 
 
 ### Proposed dashboard sketch.
-| ![DashBoard](sketch.jpg) | CLUCTH PEDAL|
+![DashBoard](sketch.jpg)
 
 
 A  picture with a link to the video is shown below.<br/>
