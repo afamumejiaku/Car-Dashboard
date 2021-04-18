@@ -21,10 +21,10 @@ A car's dashboard is a control panel usually position directly ahead of a driver
 ## Peugeot 504<br/>
 Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
 ![Peugeot 504 Dashboard](504.jpg)<br/>
-**<p align="center" > **Pros of Peugeot 504 dashboard** </p><br/>**
+**<p align="center" > **Pros of Peugeot 504 dashboard** </p>**
 1. Most if not all the features in the dashboard are easy to understand.
 2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.
-**<p align="center" style=bold> Cons of Peugeot 504 dashboard </p><br/>**
+**<p align="center" style=bold> Cons of Peugeot 504 dashboard </p>**
 1) Several important features a dashboard should have are not included.
 
 
