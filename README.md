@@ -40,7 +40,7 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 
 ## Peugeot 505<br/>
 Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
-<img src="405.jpg" width="300" height="200">
+<img src="505.jpg" width="300" height="200">
 **<p align="center" > **Pros of Peugeot 505 dashboard** </p>**
 1. Most if not all the features in the dashboard are easy to understand.
 2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.</br>
