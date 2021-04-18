@@ -25,7 +25,7 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 1. Most if not all the features in the dashboard are easy to understand.
 2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.
 **<p align="center" style=bold> Cons of Peugeot 504 dashboard </p><br/>**
-1. Several important features a dashboard should have are not included.
+1). Several important features a dashboard should have are not included.
 
 
 
