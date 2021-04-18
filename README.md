@@ -67,8 +67,16 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 **<p align="center" style=bold> Cons of Peugeot 208 dashboard </p>**
 1) Several important features a dashboard should have are not includeffd.</br>
 
-### Common Dashboard Features
 
+
+### Common mistakes you can make with the 505 design
+1.	Several icons are clustered cons are clustered at the top making it difficult to quickly identify an icon.
+2.	The fuel and temperature are position in a manner that with a quick glance for someone not familiar would confuse.
+3.	The numbers on the speedometer are small as the display is full.
+4.	Seeing red icons could cause a driver to stop driving not knowing that its not really a critical indication.
+5.	The Fuel indicator and the Engine temperature are going in reverse directions likely to be confusing.
+
+### Common Dashboard Features
 | Models | Description |
 | --- | --- |
 | ![alt text](data/BRAKEWARN.jpg) | BRAKE WARNING |
