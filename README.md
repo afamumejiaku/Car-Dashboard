@@ -25,47 +25,59 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 1. Most if not all the features in the dashboard are easy to understand.
 2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.</br>
 **<p align="center" style=bold> Cons of Peugeot 504 dashboard </p>**
-1) Several important features a dashboard should have are not included.</br>
+1) Several important features a dashboard should have are not included.
+2) The Signal lights are grouped together hence cant know the signal direction selected.
+3) No way to better understand the meaning of a singal not familar with.
+4) Looks abit clusttered with several meters
 
 
 ## Peugeot 405<br/>
-Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
+Peugeot 405 is a family car released by the French automaker Peugeot in July 1987, and was voted European Car of the Year for 1988 by the largest number of votes in the history of the contest.<br/>
 <img src="405.jpg" width="300" height="200">
 **<p align="center" > **Pros of Peugeot 405 dashboard** </p>**
-1. Most if not all the features in the dashboard are easy to understand.
+1. The signal lights were seperated
 2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.</br>
 **<p align="center" style=bold> Cons of Peugeot 405 dashboard </p>**
-1) Several important features a dashboard should have are not included.</br>
+1) Several important icons are not displayed
+2)	The car speed might be diffculty to see with a quick glance as you need to read a meter
+4)	Speedometer and Taconometer could easly be confusing.
+5)	poor use of colous</br>
 
 
 ## Peugeot 505<br/>
-Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
+Peugeot 505 is also family car released by the French automaker Peugeot in July 1979 and manufactured in germany till 1992 manufacturing over a million models.
 <img src="505.jpg" width="300" height="200">
 **<p align="center" > **Pros of Peugeot 505 dashboard** </p>**
-1. Most if not all the features in the dashboard are easy to understand.
-2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.</br>
+1. Better use of colours
+2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.
+3. Better Arranged.</br>
 **<p align="center" style=bold> Cons of Peugeot 505 dashboard </p>**
-1) Several important features a dashboard should have are not included.</br>
+1) Several icons are clustered cons are clustered at the top making it difficult to quickly identify an icon.
+2)	The fuel and temperature are position in a manner that with a quick glance for someone not familiar would confuse.
+3)	The car speed might be diffculty to see with a quick glance
+4)	Seeing red icons could cause a driver to stop driving not knowing that its not really a critical indication.
+5)	The Fuel indicator and the Engine temperature are going in reverse directions likely to be confusing.</br>
 
 
 ## Peugeot 308<br/>
-Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
+Peugeot 308 is a small family car produced by the French car manufacturer Peugeot. It was unveiled on 5 June 2007,<br/>
 <img src="308.jpg" width="300" height="200">
 **<p align="center" > **Pros of Peugeot 308 dashboard** </p>**
 1. Most if not all the features in the dashboard are easy to understand.
-2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.</br>
+2.Additional information is displayed </br>
 **<p align="center" style=bold> Cons of Peugeot 308 dashboard </p>**
-1) Several important features a dashboard should have are not included.</br>
+1) The icons are not arranged to allow for one to easily guess the meaning of an icon not known.
+2) Really Colorful</br>
 
 
 ## Peugeot 208<br/>
 Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 received the 1969 European Car of the Year being praised for its styling, quality, chassis, ride, visibility, strong engine and refinement with over 3 million vehicles manufactured in its European production and about half a million in Africa.<br/>
 <img src="208.jpg" width="300" height="200">
 **<p align="center" > **Pros of Peugeot 208 dashboard** </p>**
-1. Most if not all the features in the dashboard are easy to understand.
-2. The Used only KM/H in the speedometer hence its easy to know the measurement metric.</br>
+1. Digital speed display easy to capture
+2. Important information all displayed</br>
 **<p align="center" style=bold> Cons of Peugeot 208 dashboard </p>**
-1) Several important features a dashboard should have are not includeffd.</br>
+1) Alot is happening together, could be distracting.</br>
 
 ### Common Dashboard Features
 | Models | Description |
