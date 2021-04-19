@@ -153,20 +153,20 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 ### Proposed dashboard.
 | Models | Description |
 | --- | --- |
-| ![alt text]<img src="offdash.jpg" width="300" height="200"> | Car is off|
-| ![alt text]<img src="ignition.jpg" width="300" height="200"> | Ignition turned on|
-| ![alt text]<img src="start.jpg" width="300" height="200"> | Car started|
-| ![alt text]<img src="fault.jpg" width="300" height="200">|Faulty warning clearly listed |
-| ![alt text]<img src="Drive.jpg" width="300" height="200"> |Drive Gear|
-| ![alt text]<img src="neutral.jpg" width="300" height="200">| Neutral |
-| ![alt text]<img src="accelerate.jpg" width="300" height="200">) | Accelerate|
-| ![alt text]<img src="braking.jpg" width="300" height="200"> | Braking |
-| ![alt text]<img src="reverse.jpg" width="300" height="200"> |Reverse |
-| ![alt text]<img src="parkgear.jpg" width="300" height="200"> |park gear |
+| <img src="offdash.jpg" width="300" height="200"> | Car is off|
+| <img src="ignition.jpg" width="300" height="200"> | Ignition turned on|
+| <img src="start.jpg" width="300" height="200"> | Car started|
+| <img src="fault.jpg" width="300" height="200">|Faulty warning clearly listed |
+| <img src="Drive.jpg" width="300" height="200"> |Drive Gear|
+| <img src="neutral.jpg" width="300" height="200">| Neutral |
+| <img src="accelerate.jpg" width="300" height="200">) | Accelerate|
+| <img src="braking.jpg" width="300" height="200"> | Braking |
+| <img src="reverse.jpg" width="300" height="200"> |Reverse |
+| <img src="parkgear.jpg" width="300" height="200"> |park gear |
 
 A  picture with a link to the video is shown below.<br/>
 [ Click the image below to watch a short video demo.]( https://www.youtube.com/embed/ryIAMPHuYLQ) <br/>
-[ ![Overview](overview.png)]( https://www.youtube.com/embed/ryIAMPHuYLQ)<br/>
+[ ![Overview](start.jpg)]( https://www.youtube.com/embed/ryIAMPHuYLQ)<br/>
 
 
 
