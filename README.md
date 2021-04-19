@@ -148,7 +148,12 @@ Debuted and marketed as Peugeot's flagship at the 1968 Paris Salon, the 504 rece
 ![DashBoard](sketch.jpg)
 
 
+### Proposed dashboard.
+![DashBoard](dash.jpg)
+
 A  picture with a link to the video is shown below.<br/>
-[ Click the image below to watch a short video demo.](https://www.youtube.com/watch?v=2r75rA8yok8&ab_channel=AfamefunapromiseUmejiaku) <br/>
-[ ![Overview](overview.png)](https://www.youtube.com/watch?v=2r75rA8yok8&ab_channel=AfamefunapromiseUmejiaku)<br/>
+[ Click the image below to watch a short video demo.]( https://www.youtube.com/embed/ryIAMPHuYLQ) <br/>
+[ ![Overview](overview.png)]( https://www.youtube.com/embed/ryIAMPHuYLQ)<br/>
+
+
 
