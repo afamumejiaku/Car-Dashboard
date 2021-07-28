@@ -1,20 +1,15 @@
 # P2AfamefunaUmejiaku
-**CS 5331 - Human Computer Interaction**<br/>
-**April 2021<br/>
-Umejiaku Promise Afamefuna<br/>
-The car dashboard (Peugeot) <br/>**
 
-A car's dashboard is a control panel usually position directly ahead of a driver displaying instrumentations and controls of vehicle operations. Here would be analyzing the dashboards of Peugeot brand of cars to answer the following questions -  
+### A car's dashboard is a control panel usually position directly ahead of a driver displaying instrumentations and controls of vehicle operations. Here I analyzed the dashboards of Peugeot brand of cars.  <br/>
 
-1. Using Photos show 5 examples of car dashboards.
-2. State the pros vs. cons with the current designs and explain why it is good vs. bad.
-3. List your most common features and other more rare uses of a car dashboards.
-4. List the controls that the user interacts with the car dashboards.
-5. What are some common mistakes you can make with this current designs?
-6. Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
-7. Come up with your design for the dashboard?
-8. Design and implement interactive features
-9. Design and implement user feedback using Processing/Processing.js.
+### Using Photos I showed 5 examples of car dashboards.
+### Pros and cons with the current designs.
+### Common features and other more rare uses of a car dashboards.
+### Controls that the user interacts with the car dashboards.
+### Common mistakes with current designs
+### Suggested improvements to make on the control interface, by sketching my solutions.
+### Designed a dashboard
+### Implemented user feedback using Processing/Processing.js.
 
 <br/>
 
